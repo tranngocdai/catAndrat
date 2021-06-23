@@ -1,0 +1,6 @@
+let snow = new Cat("Snow",40,90)
+let now = new Cat("Now",50,70)
+let tinker = new Rat("Tinker",20,50)
+let ker = new Rat("Ker",60,30)
+let oro = new Snake("Oro",60,30)
+let chi = new Snake("Chi",60,30)
